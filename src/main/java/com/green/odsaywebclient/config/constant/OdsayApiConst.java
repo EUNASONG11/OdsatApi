@@ -17,5 +17,4 @@ public class OdsayApiConst {
     private final String paramStartLngName;
     private final String paramEndLatName;
     private final String paramEndLngName;
-
 }
